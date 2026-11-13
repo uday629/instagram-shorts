@@ -1,0 +1,49 @@
+boing: USC SSE Library via Internet Archive, CC0: TOONBoing_Large%20spring%20snaps%20with%20a%20twang_CS_USC.mp3
+click: Kenney.nl, CC0: click_001.ogg
+click: Kenney.nl, CC0: click_002.ogg
+click: Kenney.nl, CC0: click_004.ogg
+coins: Kenney.nl, CC0: handleCoins.ogg
+coins: Kenney.nl, CC0: handleCoins2.ogg
+ding: Kenney.nl, CC0: confirmation_001.ogg
+ding: Kenney.nl, CC0: confirmation_002.ogg
+ding: Kenney.nl, CC0: confirmation_003.ogg
+door: Kenney.nl, CC0: doorClose_1.ogg
+door: Kenney.nl, CC0: doorOpen_1.ogg
+door: Kenney.nl, CC0: doorOpen_2.ogg
+footstep: Kenney.nl, CC0: footstep_wood_000.ogg
+footstep: Kenney.nl, CC0: footstep_wood_001.ogg
+footstep: Kenney.nl, CC0: footstep_wood_002.ogg
+glitch: Kenney.nl, CC0: glitch_001.ogg
+glitch: Kenney.nl, CC0: glitch_002.ogg
+glitch: Kenney.nl, CC0: glitch_003.ogg
+heartbeat: USC SSE Library via Internet Archive, CC0: HMNHart_Human%20heartbeat_CS_USC.mp3
+impact: Kenney.nl, CC0: impactPunch_heavy_000.ogg
+impact: Kenney.nl, CC0: impactPunch_heavy_001.ogg
+impact: Kenney.nl, CC0: impactPunch_heavy_002.ogg
+impact_soft: Kenney.nl, CC0: impactSoft_heavy_000.ogg
+impact_soft: Kenney.nl, CC0: impactSoft_heavy_001.ogg
+impact_soft: Kenney.nl, CC0: impactSoft_heavy_002.ogg
+paper: Kenney.nl, CC0: bookFlip1.ogg
+paper: Kenney.nl, CC0: bookFlip2.ogg
+paper: Kenney.nl, CC0: bookFlip3.ogg
+pop: Kenney.nl, CC0: drop_001.ogg
+pop: Kenney.nl, CC0: drop_002.ogg
+pop: Kenney.nl, CC0: drop_003.ogg
+riser: USC SSE Library via Internet Archive, CC0: WHSH_Scifi%20swish%20by_CS_USC.mp3
+scratch: Kenney.nl, CC0: scratch_001.ogg
+scratch: Kenney.nl, CC0: scratch_002.ogg
+scratch: Kenney.nl, CC0: scratch_003.ogg
+stamp: Kenney.nl, CC0: impactWood_heavy_000.ogg
+stamp: Kenney.nl, CC0: impactWood_heavy_001.ogg
+stamp: Kenney.nl, CC0: impactWood_heavy_002.ogg
+tap: Kenney.nl, CC0: select_001.ogg
+tap: Kenney.nl, CC0: select_002.ogg
+tap: Kenney.nl, CC0: select_003.ogg
+tick: Kenney.nl, CC0: tick_001.ogg
+tick: Kenney.nl, CC0: tick_002.ogg
+tick: Kenney.nl, CC0: tick_004.ogg
+typewriter: USC SSE Library via Internet Archive, CC0: COMTelm_Teletype%20or%20printing%20machine_CS_USC.mp3
+whoosh: USC SSE Library via Internet Archive, CC0: SWSH_Processed%20swishes_CS_USC.mp3
+whoosh_soft: Kenney.nl, CC0: cloth1.ogg
+whoosh_soft: Kenney.nl, CC0: cloth2.ogg
+whoosh_soft: Kenney.nl, CC0: cloth3.ogg
